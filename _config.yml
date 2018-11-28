@@ -79,4 +79,10 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:furugomu/nikki.git
+  branch: gh-pages
+  message: "[ci skip] Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  name: furugomu
+  email: furugomu@gmail.com
+
