@@ -3,7 +3,7 @@ backend:
   repo: furugomu/nikki
   branch: master
 publish_mode: editorial_workflow
-media_folder: static/images/uploads
+media_folder: source/images/uploads
 public_folder: /images/uploads
 collections:
   - name: nikki

@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 💩
 subtitle:
-description:
+description: ふるごむのブログです
 keywords:
-author: John Doe
-language:
-timezone:
+author: furugomu
+language: ja
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://furugomu.github.io
+root: /nikki/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
