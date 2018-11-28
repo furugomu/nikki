@@ -19,7 +19,7 @@ jobs:
       - checkout
 
       - add_ssh_keys:
-        fingerprints:
+          fingerprints:
           - "7a:f8:a3:18:fb:10:85:62:56:5a:7e:b6:15:50:7b:4d"
 
       # Download and cache dependencies
